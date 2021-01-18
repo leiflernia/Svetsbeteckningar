@@ -22,20 +22,7 @@ module.exports = {
           ['/V-fog', 'V-fog'],
         ]
       },
-      {
-        title: 'Kombination av grundsymboler',
-        collapsable: true,
-        children: [
-          // ['/Ansokan_och_kandidatsokning', 'Ansökan och kandidatsökning'],
-          // ['/Intervju', 'Intervju'],
-          // ['/Kandidatpresentation', 'Kandidatpresentation'],
-          // ['/Personlighetsochkompetenstester', 'Personlighets- och kompetenstester'],
-          // ['/Referenstagning', 'Referenstagning'],
-          // ['/Halsorelateradetester', 'Hälsorelaterade tester'],
-          // ['/Ovrigakontroller', 'Övriga kontroller'],
-          // ['/Anstallninghoskund', 'Anställning hos kund'],
-        ]
-      },
+        ['kombination_grundsymboler', 'Kombination av grundsymboler'],
       {
         title: 'Tillägssymboler',
         collapsable: true,
