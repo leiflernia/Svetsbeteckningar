@@ -19,10 +19,11 @@ module.exports = {
           ['/j-fog', 'J-fog'],
           ['/Kalfog', 'Kälfog'],
           ['/Punktsvets', 'Punktsvets'],
-          ['/V-fog', 'V-fog'],
+          // ['/V-fog', 'V-fog'],
         ]
       },
         ['kombination_grundsymboler', 'Kombination av grundsymboler'],
+        ['mattangivelser', 'Måttangivelser'],
       {
         title: 'Tillägssymboler',
         collapsable: true,
@@ -33,16 +34,16 @@ module.exports = {
           // ['/Personaladministration', 'Personaladministration'],
         ]
       },
-      {
-        title: 'Måttangivelser',
-        collapsable: true,
-        children: [
-          // ['/Anstallaochavslutaanstallning', 'Anställa och avsluta anställning'],
-          // ['/Konsultpresentation', 'Konsultpresentation'],
-          // ['/Uppdragsrelaterat', 'Uppdragsrelaterat'],
-          // ['/Personaladministration', 'Personaladministration'],
-        ]
-      },
+      // {
+      //   title: 'Måttangivelser',
+      //   collapsable: true,
+      //   children: [
+      //     // ['/Anstallaochavslutaanstallning', 'Anställa och avsluta anställning'],
+      //     // ['/Konsultpresentation', 'Konsultpresentation'],
+      //     // ['/Uppdragsrelaterat', 'Uppdragsrelaterat'],
+      //     // ['/Personaladministration', 'Personaladministration'],
+      //   ]
+      // },
       {
         title: 'Svetsmetoder',
         collapsable: true,
