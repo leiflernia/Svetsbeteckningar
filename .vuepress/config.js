@@ -54,16 +54,17 @@ module.exports = {
           // ['/Personaladministration', 'Personaladministration'],
         ]
       },
-      {
-        title: 'Svetsklass',
-        collapsable: true,
-        children: [
-          // ['/Anstallaochavslutaanstallning', 'Anställa och avsluta anställning'],
-          // ['/Konsultpresentation', 'Konsultpresentation'],
-          // ['/Uppdragsrelaterat', 'Uppdragsrelaterat'],
-          // ['/Personaladministration', 'Personaladministration'],
-        ]
-      },
+      ['svetsklass', 'Svetsklass'],
+      // {
+      //   title: 'Svetsklass',
+      //   collapsable: true,
+      //   children: [
+      //     // ['/Anstallaochavslutaanstallning', 'Anställa och avsluta anställning'],
+      //     // ['/Konsultpresentation', 'Konsultpresentation'],
+      //     // ['/Uppdragsrelaterat', 'Uppdragsrelaterat'],
+      //     // ['/Personaladministration', 'Personaladministration'],
+      //   ]
+      // },
     ]
   }
 }
