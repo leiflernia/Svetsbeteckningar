@@ -45,16 +45,17 @@ module.exports = {
       //     // ['/Personaladministration', 'Personaladministration'],
       //   ]
       // },
-      {
-        title: 'Svetsmetoder',
-        collapsable: true,
-        children: [
-          // ['/Anstallaochavslutaanstallning', 'Anställa och avsluta anställning'],
-          // ['/Konsultpresentation', 'Konsultpresentation'],
-          // ['/Uppdragsrelaterat', 'Uppdragsrelaterat'],
-          // ['/Personaladministration', 'Personaladministration'],
-        ]
-      },
+      // {
+      //   title: 'Svetsmetoder',
+      //   collapsable: true,
+      //   children: [
+      //     // ['/Anstallaochavslutaanstallning', 'Anställa och avsluta anställning'],
+      //     // ['/Konsultpresentation', 'Konsultpresentation'],
+      //     // ['/Uppdragsrelaterat', 'Uppdragsrelaterat'],
+      //     // ['/Personaladministration', 'Personaladministration'],
+      //   ]
+      // },
+      ['svetsmetoder', 'Svetsmetoder'],
       ['svetsklass', 'Svetsklass'],
       // {
       //   title: 'Svetsklass',
